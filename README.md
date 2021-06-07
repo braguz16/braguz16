@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @braguz16
 - 👀 I’m interested in Data Science and AI
-- 🌱 I’m currently learning HTML & CSS
+- 🌱 I’m currently learning HTML, CSS, JS and Python
 - 💞️ I’m looking to collaborate on AI
 - 📫 braguz16@icloud.com
 
